@@ -25,13 +25,17 @@ height: 100px
 	font-size: 125%
 }
 #pollo{
-	background-color: gray
+	background-color: gray;
+	overflow: auto
+
 }
 
 #carnes{
-	background-color: gray
+	background-color: gray;
+	overflow: auto;
 }
-#sushi{ background-color: gray
+#sushi{ background-color: gray;
+overflow: auto;
  }
 
 
